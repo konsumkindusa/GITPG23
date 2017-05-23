@@ -161,6 +161,7 @@
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
+        <members>Test_AutoRabbit__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
@@ -236,6 +237,7 @@
         <members>SBA__c-SBA Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>Test_AutoRabbit__c-Test AutoRabbit Layout</members>
         <members>User-User Layout</members>
         <members>UserAlt-User Profile Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
