@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Deal</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Deals</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- Deals --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Deal Dupe Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Large Deal --></label>
+        <name>LargeDeal</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Small Deal --></label>
+        <name>SmallDeal</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Account cant be null --></errorMessage>
+        <name>Validation_1</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Google_Link --></label>
+        <name>Google_Link</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Yahoo_Btn --></label>
+        <name>Yahoo_Btn</name>
+    </webLinks>
+</CustomObjectTranslation>
