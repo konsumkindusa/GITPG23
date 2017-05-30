@@ -51,6 +51,45 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>SBA_Jira_CI_Demo__c</fullName>
+        <externalId>false</externalId>
+        <label>SBA Jira CI Demo</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>SBA Jira CI Demo01</fullName>
+                    <default>false</default>
+                    <label>SBA Jira CI Demo01</label>
+                </value>
+                <value>
+                    <fullName>SBA Jira CI Demo02</fullName>
+                    <default>false</default>
+                    <label>SBA Jira CI Demo02</label>
+                </value>
+                <value>
+                    <fullName>SBA Jira CI Demo03</fullName>
+                    <default>false</default>
+                    <label>SBA Jira CI Demo03</label>
+                </value>
+                <value>
+                    <fullName>SBA Jira CI Demo04</fullName>
+                    <default>false</default>
+                    <label>SBA Jira CI Demo04</label>
+                </value>
+                <value>
+                    <fullName>SBA Jira CI Demo05</fullName>
+                    <default>false</default>
+                    <label>SBA Jira CI Demo05</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <label>SBA Jira CI Demo</label>
     <nameField>
         <label>SBA Jira CI Demo Name</label>
