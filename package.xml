@@ -156,6 +156,7 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>SBATest__c</members>
         <members>SBA_Jira_CI_Demo__c</members>
         <members>SBA__c</members>
         <members>Site</members>
@@ -236,6 +237,7 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>SBATest__c-SBATest Layout</members>
         <members>SBA_Jira_CI_Demo__c-SBA Jira CI Demo Layout</members>
         <members>SBA__c-SBA Layout</members>
         <members>Solution-Solution Layout</members>
