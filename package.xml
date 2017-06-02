@@ -168,6 +168,7 @@
         <members>StreamingChannel</members>
         <members>Task</members>
         <members>Test_AutoRabbit__c</members>
+        <members>Test__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
