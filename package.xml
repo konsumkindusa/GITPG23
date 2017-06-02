@@ -167,6 +167,7 @@
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
+        <members>Test2__c</members>
         <members>Test_AutoRabbit__c</members>
         <members>Test__c</members>
         <members>User</members>
@@ -248,6 +249,7 @@
         <members>SBA__c-SBA Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>Test2__c-Test2 Layout</members>
         <members>Test_AutoRabbit__c-Test AutoRabbit Layout</members>
         <members>User-User Layout</members>
         <members>UserAlt-User Profile Layout</members>
