@@ -1309,6 +1309,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SBATest2__c.SBAPick1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SBA_Jira_CI_Demo__c.SBA_Jira_CI_Demo__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1461,6 +1466,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>SBA_Jira_CI_Demo__c-SBA Jira CI Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SBATest2__c-SBATest2 Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>

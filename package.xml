@@ -100,6 +100,7 @@
         <members>Pricebook2.AutorabitExtId__c</members>
         <members>PricebookEntry.AutorabitExtId__c</members>
         <members>Product2.AutorabitExtId__c</members>
+        <members>SBATest2__c.SBAPick1__c</members>
         <members>SBA_Jira_CI_Demo__c.SBA_Jira_CI_Demo__c</members>
         <members>SBA__c.SBA_Picklist__c</members>
         <name>CustomField</name>
@@ -157,6 +158,7 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>SBATest2__c</members>
         <members>SBATest__c</members>
         <members>SBA_Jira_CI_Demo__c</members>
         <members>SBA__c</members>
@@ -239,6 +241,7 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>SBATest2__c-SBATest2 Layout</members>
         <members>SBATest__c-SBATest Layout</members>
         <members>SBA_Jira_CI_Demo__c-SBA Jira CI Demo Layout</members>
         <members>SBA__c-SBA Layout</members>
