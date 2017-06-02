@@ -158,6 +158,7 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>SBA2__c</members>
         <members>SBATest2__c</members>
         <members>SBATest__c</members>
         <members>SBA_Jira_CI_Demo__c</members>
@@ -244,6 +245,7 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>SBA2__c-SBA2 Layout</members>
         <members>SBATest2__c-SBATest2 Layout</members>
         <members>SBATest__c-SBATest Layout</members>
         <members>SBA_Jira_CI_Demo__c-SBA Jira CI Demo Layout</members>
@@ -253,6 +255,7 @@
         <members>Test2__c-Test2 Layout</members>
         <members>Test3__c-Test3 Layout</members>
         <members>Test_AutoRabbit__c-Test AutoRabbit Layout</members>
+        <members>Test__c-Test Layout</members>
         <members>User-User Layout</members>
         <members>UserAlt-User Profile Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
