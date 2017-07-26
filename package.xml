@@ -5,6 +5,11 @@
         <members>ARApexClass</members>
         <members>ARApexClass1</members>
         <members>ARApexClass2</members>
+        <members>CATApex1</members>
+        <members>CATApex2</members>
+        <members>CATApex3</members>
+        <members>CATApexTest1</members>
+        <members>CATApexTest2</members>
         <members>SBAApex1</members>
         <members>SBAApex2</members>
         <members>SBAApex3</members>
@@ -76,6 +81,7 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>CAT__c.Cats_Picklist__c</members>
         <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
@@ -122,6 +128,7 @@
         <members>Activity</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>CAT__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -208,6 +215,7 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>CAT__c-CAT Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
