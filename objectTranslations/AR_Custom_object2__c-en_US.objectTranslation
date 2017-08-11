@@ -8,5 +8,10 @@
         <plural>true</plural>
         <value>AR Custom objects2</value>
     </caseValues>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- AR Custom objects2 --></relationshipLabel>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

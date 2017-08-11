@@ -5,6 +5,11 @@
         <members>ARApexClass</members>
         <members>ARApexClass1</members>
         <members>ARApexClass2</members>
+        <members>CATApex1</members>
+        <members>CATApex2</members>
+        <members>CATApex3</members>
+        <members>CATApexTest1</members>
+        <members>CATApexTest2</members>
         <members>SBAApex1</members>
         <members>SBAApex2</members>
         <members>SBAApex3</members>
@@ -14,14 +19,17 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>AccountTrigger</members>
-        <members>HandlingMirrorOpportunity</members>
-        <name>ApexTrigger</name>
+        <members>Newpage</members>
+        <name>ApexPage</name>
     </types>
     <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>
+    </types>
+    <types>
+        <members>AR_CustomObject1__c.AR_ApprovalProcess1</members>
+        <name>ApprovalProcess</name>
     </types>
     <types>
         <members>Case.Standard</members>
@@ -62,30 +70,34 @@
     <types>
         <members>AR_CustomObject1__c.AR_CustomField1__c</members>
         <members>AR_CustomObject1__c.AR_Custom_Field3__c</members>
+        <members>AR_CustomObject1__c.Contact__c</members>
+        <members>AR_Custom_object2__c.Contact__c</members>
         <members>Account.AR_Custom_Field3_Accounts__c</members>
         <members>Account.Active__c</members>
+        <members>Account.AutorabitExtId__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.NumberofLocations__c</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>CAT__c.Cats_Picklist__c</members>
+        <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
+        <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>Goal.OrigGoalId__c</members>
-        <members>Lead.AutorabitExtId__c</members>
         <members>Lead.CurrentGenerators__c</members>
         <members>Lead.NumberofLocations__c</members>
         <members>Lead.Primary__c</members>
         <members>Lead.ProductInterest__c</members>
         <members>Lead.SICCode__c</members>
         <members>Metric.OrigMetricId__c</members>
-        <members>Object_B__c.Object_B_Picklist__c</members>
-        <members>Object_C__c.Hitachi_CheckBox__c</members>
+        <members>Opportunity.AutorabitExtId__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
         <members>Opportunity.MainCompetitors__c</members>
@@ -94,8 +106,14 @@
         <members>Pricebook2.AutorabitExtId__c</members>
         <members>PricebookEntry.AutorabitExtId__c</members>
         <members>Product2.AutorabitExtId__c</members>
+        <members>SBATest2__c.SBAPick1__c</members>
+        <members>SBA_Jira_CI_Demo__c.SBA_Jira_CI_Demo__c</members>
         <members>SBA__c.SBA_Picklist__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>AR_CustomLabel1</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>CustomLabels</members>
@@ -110,6 +128,7 @@
         <members>Activity</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>CAT__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -129,13 +148,13 @@
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
+        <members>JiraTest__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
-        <members>Object_B__c</members>
-        <members>Object_C__c</members>
+        <members>Object_A__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -146,12 +165,20 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>SBA2__c</members>
+        <members>SBATest2__c</members>
+        <members>SBATest__c</members>
+        <members>SBA_Jira_CI_Demo__c</members>
         <members>SBA__c</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
+        <members>Test2__c</members>
+        <members>Test3__c</members>
+        <members>Test_AutoRabbit__c</members>
+        <members>Test__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
@@ -160,8 +187,7 @@
         <members>AR_CustomObject1__c-en_US</members>
         <members>AR_Custom_object2__c-en_US</members>
         <members>Customer_Survey__c-en_US</members>
-        <members>Object_B__c-en_US</members>
-        <members>Object_C__c-en_US</members>
+        <members>Object_A__c-en_US</members>
         <name>CustomObjectTranslation</name>
     </types>
     <types>
@@ -182,12 +208,14 @@
     </types>
     <types>
         <members>AR_CustomObject1__c-AR-CustomObject1 Layout</members>
+        <members>AR_CustomObject1__c-AR-Layout1</members>
         <members>AR_Custom_object2__c-AR-Custom object2 Layout</members>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>CAT__c-CAT Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
@@ -208,13 +236,13 @@
         <members>FeedItem-Feed Item Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
+        <members>JiraTest__c-JiraTest Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
-        <members>Object_B__c-Object B Layout</members>
-        <members>Object_C__c-Object C Layout</members>
+        <members>Object_A__c-Object A Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -225,10 +253,19 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>SBA2__c-SBA2 Layout</members>
+        <members>SBATest2__c-SBATest2 Layout</members>
+        <members>SBATest__c-SBATest Layout</members>
+        <members>SBA_Jira_CI_Demo__c-SBA Jira CI Demo Layout</members>
         <members>SBA__c-SBA Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>Test2__c-Test2 Layout</members>
+        <members>Test3__c-Test3 Layout</members>
+        <members>Test_AutoRabbit__c-Test AutoRabbit Layout</members>
+        <members>Test__c-Test Layout</members>
         <members>User-User Layout</members>
+        <members>UserAlt-User Profile Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
@@ -304,6 +341,11 @@
         <name>MatchingRules</name>
     </types>
     <types>
+        <members>PCL_Test_permission_set</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>AR-Profile1</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
@@ -335,7 +377,7 @@
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>
         <members>PlatformPortal</members>
-        <members>Playground Admin</members>
+        <members>Playground-Admin</members>
         <members>ReadOnly</members>
         <members>Silver Partner User</members>
         <members>SolutionManager</members>
@@ -435,7 +477,6 @@
     </types>
     <types>
         <members>AR_CustomObject1__c</members>
-        <members>AR_Custom_object2__c</members>
         <members>Account</members>
         <members>Asset</members>
         <members>Campaign</members>
@@ -443,8 +484,7 @@
         <members>Contact</members>
         <members>Customer_Survey__c</members>
         <members>Lead</members>
-        <members>Object_B__c</members>
-        <members>Object_C__c</members>
+        <members>Object_A__c</members>
         <members>Opportunity</members>
         <members>Order</members>
         <members>User</members>
@@ -541,8 +581,7 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
-        <members>Object_B__c</members>
-        <members>Object_C__c</members>
+        <members>Object_A__c</members>
         <members>Opportunity</members>
         <members>OpportunityLineItem</members>
         <members>Order</members>
@@ -564,33 +603,4 @@
         <members>AR_CustomObject1__c.AR-WorkflowRule2</members>
         <name>WorkflowRule</name>
     </types>
-        <members>Account</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>BusinessHours</members>
-        <members>Case</members>
-        <members>ChatterAnswers</members>
-        <members>Company</members>
-        <members>Contract</members>
-        <members>Entitlement</members>
-        <members>FileUploadAndDownloadSecurity</members>
-        <members>Forecasting</members>
-        <members>Ideas</members>
-        <members>Knowledge</members>
-        <members>LiveAgent</members>
-        <members>Macro</members>
-        <members>Mobile</members>
-        <members>Name</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>OrgPreference</members>
-        <members>PathAssistant</members>
-        <members>PersonalJourney</members>
-        <members>Product</members>
-        <members>Quote</members>
-        <members>Search</members>
-        <members>Security</members>
-        <name>Settings</name>
-    </types>
-    <version>39.0</version>
 </Package>

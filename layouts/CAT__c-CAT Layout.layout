@@ -12,7 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Hitachi_CheckBox__c</field>
+                <field>Cats_Picklist__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

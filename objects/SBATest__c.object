@@ -51,20 +51,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>Hitachi_CheckBox__c</fullName>
-        <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
-        <label>Hitachi CheckBox</label>
-        <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
-    </fields>
-    <label>Object C</label>
+    <label>SBATest</label>
     <nameField>
-        <label>Object C Name</label>
+        <label>SBATest Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Object Cs</pluralLabel>
+    <pluralLabel>SBATests</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
