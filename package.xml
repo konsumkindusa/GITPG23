@@ -11,6 +11,7 @@
         <members>CATApex3</members>
         <members>CATApexTest1</members>
         <members>CATApexTest2</members>
+        <members>CATApexTest3</members>
         <name>ApexClass</name>
     </types>
     <types>
