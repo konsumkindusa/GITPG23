@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>39.0</version>
     <types>
         <members>ARDemo1</members>
         <members>AR_Deploycls</members>
         <members>AR_Deploycls_Test</members>
         <members>AutoRBT</members>
+        <members>CATApex1</members>
+        <members>CATApex2</members>
+        <members>CATApex3</members>
+        <members>CATApexTest1</members>
+        <members>CATApexTest2</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -74,6 +80,7 @@
         <members>Account.UpsellOpportunity__c</members>
         <members>Application__c.Candidate_Name__c</members>
         <members>Application__c.Job_Title__c</members>
+        <members>CAT__c.Cats_Picklist__c</members>
         <members>CM_Deploy__mdt.Active__c</members>
         <members>Candidate__c.Email__c</members>
         <members>Candidate__c.First_Name__c</members>
@@ -116,6 +123,7 @@
         <members>Application__c</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>CAT__c</members>
         <members>CM_Deploy__mdt</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
@@ -223,6 +231,7 @@
         <members>Account-Account Layout</members>
         <members>Application__c-Application Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>CAT__c-CAT Layout</members>
         <members>CM_Deploy__mdt-CM_Deploy Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
@@ -350,6 +359,7 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>AR-Profile1</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
@@ -374,12 +384,14 @@
         <members>Gold Partner User</members>
         <members>High Volume Customer Portal User</members>
         <members>HighVolumePortal</members>
+        <members>Hitachi Profile</members>
         <members>Identity User</members>
         <members>MarketingProfile</members>
         <members>Partner App Subscription User</members>
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>
         <members>PlatformPortal</members>
+        <members>Playground-Admin</members>
         <members>ReadOnly</members>
         <members>Silver Partner User</members>
         <members>SolutionManager</members>
@@ -449,6 +461,34 @@
         <members>VPNorthAmericanSales</members>
         <members>WesternSalesTeam</members>
         <name>Role</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <members>Activities</members>
+        <members>Address</members>
+        <members>BusinessHours</members>
+        <members>Case</members>
+        <members>Company</members>
+        <members>Contract</members>
+        <members>Entitlement</members>
+        <members>FileUploadAndDownloadSecurity</members>
+        <members>Forecasting</members>
+        <members>Ideas</members>
+        <members>Knowledge</members>
+        <members>LiveAgent</members>
+        <members>Macro</members>
+        <members>Mobile</members>
+        <members>Name</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>OrgPreference</members>
+        <members>PathAssistant</members>
+        <members>PersonalJourney</members>
+        <members>Product</members>
+        <members>Quote</members>
+        <members>Search</members>
+        <members>Security</members>
+        <name>Settings</name>
     </types>
     <types>
         <members>AR_Demo1__c</members>
@@ -598,33 +638,4 @@
         <members>AR_Demo1__c.WF1</members>
         <name>WorkflowRule</name>
     </types>
-    <types>
-        <members>Account</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>BusinessHours</members>
-        <members>Case</members>
-        <members>Company</members>
-        <members>Contract</members>
-        <members>Entitlement</members>
-        <members>FileUploadAndDownloadSecurity</members>
-        <members>Forecasting</members>
-        <members>Ideas</members>
-        <members>Knowledge</members>
-        <members>LiveAgent</members>
-        <members>Macro</members>
-        <members>Mobile</members>
-        <members>Name</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>OrgPreference</members>
-        <members>PathAssistant</members>
-        <members>PersonalJourney</members>
-        <members>Product</members>
-        <members>Quote</members>
-        <members>Search</members>
-        <members>Security</members>
-        <name>Settings</name>
-    </types>
-    <version>39.0</version>
 </Package>
