@@ -3,6 +3,7 @@
     <version>39.0</version>
     <types>
         <members>ARApexClass1</members>
+        <members>ConflictTest</members>
         <name>ApexClass</name>
     </types>
 </Package>
