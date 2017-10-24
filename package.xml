@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>40.0</version>
     <types>
         <members>ARApexClass</members>
         <members>ARApexClass1</members>
@@ -13,6 +13,8 @@
         <members>SBAApex1</members>
         <members>SBAApex2</members>
         <members>SBAApex3</members>
+        <members>SBAApexClass1</members>
+        <members>SBAApexClass2</members>
         <members>SBAApexTest1</members>
         <members>SBAApexTest2</members>
         <members>TAFApexClass</members>

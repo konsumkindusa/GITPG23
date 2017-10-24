@@ -1,7 +1,7 @@
 @istest
 public class SBAApexTest1{
 static testmethod void CreateAccTest(){
-SBAApex1 acc = new SBAApex1();
+CATApex1 acc = new CATApex1();
  Account ac = acc.CreateRecord('name');
 }
 }
