@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>40.0</version>
     <types>
         <members>ARDemo1</members>
         <members>AR_Deploycls</members>
@@ -12,6 +12,7 @@
         <members>CATApexTest1</members>
         <members>CATApexTest2</members>
         <members>CATApexTest3</members>
+        <members>SBAApex2017</members>
         <name>ApexClass</name>
     </types>
     <types>
