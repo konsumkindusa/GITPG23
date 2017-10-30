@@ -20,6 +20,8 @@
         <members>SBAApexTest1</members>
         <members>SBAApexTest2</members>
         <members>TAFApexClass</members>
+        <members>CATApexTest3</members>
+        <members>SBAApex2017</members>
         <name>ApexClass</name>
     </types>
     <types>
