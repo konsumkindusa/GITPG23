@@ -53,13 +53,13 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>SBA_Picklist__c</fullName>
+        <description>Change for EZ-Commit</description>
         <externalId>false</externalId>
         <label>SBA Picklist</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
         <valueSet>
-            <restricted>true</restricted>
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
