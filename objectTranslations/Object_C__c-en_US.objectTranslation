@@ -8,9 +8,5 @@
         <plural>true</plural>
         <value>Object Cs</value>
     </caseValues>
-    <fields>
-        <label><!-- Hitachi CheckBox --></label>
-        <name>Hitachi_CheckBox__c</name>
-    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

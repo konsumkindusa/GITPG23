@@ -8,13 +8,5 @@
         <plural>true</plural>
         <value>AR-CustomObject1s</value>
     </caseValues>
-    <fields>
-        <label><!-- AR-CustomField1 --></label>
-        <name>AR_CustomField1__c</name>
-    </fields>
-    <fields>
-        <label><!-- AR-Custom Field3 --></label>
-        <name>AR_Custom_Field3__c</name>
-    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

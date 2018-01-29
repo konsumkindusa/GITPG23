@@ -2,8 +2,9 @@ public Class ARApexClass1
 {
 public Account createAccount(String name)  //method to create account
 {
-//New change Oct 19
+//Comment1
 //leela comment
+//comment2
 Account acc112 = new Account();
 acc112.Name = name;
 Contact con=new Contact();

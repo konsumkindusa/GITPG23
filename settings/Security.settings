@@ -2,6 +2,30 @@
 <SecuritySettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <networkAccess>
         <ipRanges>
+            <end>192.186.128.12</end>
+            <start>192.186.128.12</start>
+        </ipRanges>
+        <ipRanges>
+            <end>165.110.202.57</end>
+            <start>165.110.202.57</start>
+        </ipRanges>
+        <ipRanges>
+            <end>165.110.188.96</end>
+            <start>165.110.188.87</start>
+        </ipRanges>
+        <ipRanges>
+            <end>10.229.6.184</end>
+            <start>10.229.6.184</start>
+        </ipRanges>
+        <ipRanges>
+            <end>10.229.6.200</end>
+            <start>10.229.6.1</start>
+        </ipRanges>
+        <ipRanges>
+            <end>10.229.6.225</end>
+            <start>10.229.6.1</start>
+        </ipRanges>
+        <ipRanges>
             <end>1.255.255.255</end>
             <start>0.0.0.0</start>
         </ipRanges>
@@ -37,5 +61,6 @@
         <lockSessionsToDomain>true</lockSessionsToDomain>
         <lockSessionsToIp>false</lockSessionsToIp>
         <securityCentralKillSession>true</securityCentralKillSession>
+        <sessionTimeout>TwoHours</sessionTimeout>
     </sessionSettings>
 </SecuritySettings>
