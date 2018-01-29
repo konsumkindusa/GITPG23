@@ -577,6 +577,7 @@
         <members>SBATest2__c.SBAPick1__c</members>
         <members>SBA_Jira_CI_Demo__c.SBA_Jira_CI_Demo__c</members>
         <members>SBA__c.SBA_Picklist__c</members>
+        <members>SFDC_Arch_Demo__c.SFDC_Arch_Demo__c</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
         <members>ScorecardMetric.Category</members>
@@ -691,6 +692,7 @@
         <members>SBATest__c</members>
         <members>SBA_Jira_CI_Demo__c</members>
         <members>SBA__c</members>
+        <members>SFDC_Arch_Demo__c</members>
         <members>Scorecard</members>
         <members>ScorecardMetric</members>
         <members>Site</members>
@@ -815,6 +817,7 @@
         <members>SBATest__c-SBATest Layout</members>
         <members>SBA_Jira_CI_Demo__c-SBA Jira CI Demo Layout</members>
         <members>SBA__c-SBA Layout</members>
+        <members>SFDC_Arch_Demo__c-SFDC Arch Demo Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>Slalom__c-Slalom Layout</members>

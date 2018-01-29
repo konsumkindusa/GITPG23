@@ -1398,6 +1398,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SFDC_Arch_Demo__c.SFDC_Arch_Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Slalom__c.Slalom_Picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1562,6 +1567,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>SBA__c-SBA Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SFDC_Arch_Demo__c-SFDC Arch Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Scorecard-Scorecard Layout</layout>
@@ -1870,6 +1878,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>SBA__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>SFDC_Arch_Demo__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
