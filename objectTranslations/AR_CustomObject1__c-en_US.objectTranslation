@@ -8,25 +8,5 @@
         <plural>true</plural>
         <value>AR-CustomObject1s</value>
     </caseValues>
-    <fields>
-        <label><!-- AR-CustomField1 --></label>
-        <name>AR_CustomField1__c</name>
-    </fields>
-    <fields>
-        <label><!-- AR-Custom Field3 --></label>
-        <name>AR_Custom_Field3__c</name>
-    </fields>
-    <fields>
-        <label><!-- Contact --></label>
-        <name>Contact__c</name>
-        <relationshipLabel><!-- AR-CustomObject1s --></relationshipLabel>
-    </fields>
-    <layouts>
-        <layout>AR-Layout1</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

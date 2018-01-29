@@ -56,7 +56,7 @@
         <label>Object A Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Object As</pluralLabel>
+    <pluralLabel>Object&apos;s A</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

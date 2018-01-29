@@ -354,11 +354,6 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <listViews>
-        <fullName>AllAccounts</fullName>
-        <filterScope>Everything</filterScope>
-        <label>All Accounts</label>
-    </listViews>
-    <listViews>
         <fullName>MyAccounts</fullName>
         <filterScope>Mine</filterScope>
         <label>My Accounts</label>
