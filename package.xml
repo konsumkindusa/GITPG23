@@ -11,6 +11,10 @@
         <members>SBAApex3</members>
         <members>SBAApexTest1</members>
         <members>SBAApexTest2</members>
+        <members>SFDCArchDEMOApex1</members>
+        <members>SFDCArchDEMOApexTest1</members>
+        <members>SlalomApex1</members>
+        <members>SlalomApexTest1</members>
         <members>TAFApexClass</members>
         <name>ApexClass</name>
     </types>
