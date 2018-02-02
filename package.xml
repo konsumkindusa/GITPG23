@@ -8,6 +8,8 @@
         <members>CATApex2</members>
         <members>CATApex3</members>
         <members>ConflictTest</members>
+        <members>GenomicHealthApex1</members>
+        <members>GenomicHealthApexTest1</members>
         <members>MerckApexClass1</members>
         <members>MerckApexTest1</members>
         <members>SBAApexClass2</members>
