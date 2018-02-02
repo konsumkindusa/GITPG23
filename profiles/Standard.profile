@@ -1349,6 +1349,19 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+<<<<<<< HEAD
+=======
+        <field>SFDC_Arch_Demo__c.SFDC_Arch_Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Slalom__c.Slalom_Picklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+>>>>>>> 95e4748... PB-2 - Create Object w Picklist
         <field>SocialPersona.SourceApp</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1486,6 +1499,24 @@
         <layout>SBA_Jira_CI_Demo__c-SBA Jira CI Demo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+<<<<<<< HEAD
+=======
+        <layout>SBA__c-SBA Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SFDC_Arch_Demo__c-SFDC Arch Demo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Scorecard-Scorecard Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ScorecardMetric-Scorecard Metric Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Slalom__c-Slalom Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+>>>>>>> 95e4748... PB-2 - Create Object w Picklist
         <layout>Solution-Solution Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
