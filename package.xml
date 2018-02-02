@@ -436,6 +436,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>GenomicHealth__c.Genomic_Health_Picklist__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>Lead.Address</members>
@@ -667,6 +668,7 @@
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
+        <members>GenomicHealth__c</members>
         <members>Idea</members>
         <members>JiraTest__c</members>
         <members>Lead</members>
@@ -791,6 +793,7 @@
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>Event-Event Layout</members>
         <members>FeedItem-Feed Item Layout</members>
+        <members>GenomicHealth__c-Genomic Health Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
         <members>JiraTest__c-JiraTest Layout</members>
