@@ -892,6 +892,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>IGH__c.IGH_Picklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Idea.Attachment</field>
         <readable>false</readable>
@@ -1458,6 +1463,9 @@
         <layout>Global-Global Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>IGH__c-IGH Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Idea-Idea Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1647,6 +1655,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>DuplicateRecordSet</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>IGH__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

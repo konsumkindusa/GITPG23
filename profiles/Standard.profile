@@ -893,6 +893,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>IGH__c.IGH_Picklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Idea.Attachment</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1456,6 +1461,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Global-Global Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>IGH__c-IGH Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Idea-Idea Layout</layout>
