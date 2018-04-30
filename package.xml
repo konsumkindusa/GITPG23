@@ -2,9 +2,9 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>40.0</version>
     <types>
-        <members>ARApexClass</members>
-        <members>ARApexClass1</members>
-        <members>ARApexClass2</members>
+        <members>AlignTechApex1</members>
+        <members>AlignTechApexTest1</members>
+        <members>BlueShieldApex1</members>
         <members>CATApex1</members>
         <members>CATApex2</members>
         <members>CATApex3</members>
