@@ -295,6 +295,17 @@
         <members>Pricebook2.AutorabitExtId__c</members>
         <members>PricebookEntry.AutorabitExtId__c</members>
         <members>Product2.AutorabitExtId__c</members>
+        <members>Product2.Description</members>
+        <members>Product2.DisplayUrl</members>
+        <members>Product2.ExternalDataSourceId</members>
+        <members>Product2.ExternalId</members>
+        <members>Product2.Family</members>
+        <members>Product2.IsActive</members>
+        <members>Product2.Name</members>
+        <members>Product2.ProductCode</members>
+        <members>Product2.QuantityUnitOfMeasure</members>
+        <members>Product2.StockKeepingUnit</members>
+        <members>Randstad_New_Clients__c.New_Clients__c</members>
         <members>SBATest2__c.SBAPick1__c</members>
         <members>SBA_Jira_CI_Demo__c.SBA_Jira_CI_Demo__c</members>
         <members>SBA__c.SBA_Picklist__c</members>
@@ -408,6 +419,7 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>Randstad_New_Clients__c</members>
         <members>SBA2__c</members>
         <members>SBATest2__c</members>
         <members>SBATest__c</members>
@@ -500,6 +512,7 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>Randstad_New_Clients__c-Randstad New Clients Layout</members>
         <members>SBA2__c-SBA2 Layout</members>
         <members>SBATest2__c-SBATest2 Layout</members>
         <members>SBATest__c-SBATest Layout</members>
