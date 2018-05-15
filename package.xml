@@ -610,6 +610,7 @@
         <members>Solution.SolutionName</members>
         <members>Solution.SolutionNote</members>
         <members>Solution.Status</members>
+        <members>SuperGCapital__c.SuperGCapital_Pick_List__c</members>
         <members>Task.ActivityDate</members>
         <members>Task.CallDisposition</members>
         <members>Task.CallDurationInSeconds</members>
@@ -719,6 +720,7 @@
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
+        <members>SuperGCapital__c</members>
         <members>Task</members>
         <members>Test2__c</members>
         <members>Test3__c</members>
@@ -850,6 +852,7 @@
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>Slalom__c-Slalom Layout</members>
         <members>Solution-Solution Layout</members>
+        <members>SuperGCapital__c-SuperGCapital Layout</members>
         <members>Task-Task Layout</members>
         <members>Test2__c-Test2 Layout</members>
         <members>Test3__c-Test3 Layout</members>
