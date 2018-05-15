@@ -45,7 +45,6 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
-    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
@@ -64,14 +63,14 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>Value01</fullName>
+                    <fullName>Value01Change</fullName>
                     <default>false</default>
                     <label>Value01</label>
                 </value>
                 <value>
                     <fullName>Value02</fullName>
                     <default>false</default>
-                    <label>Value02</label>
+                    <label>Value02Change</label>
                 </value>
                 <value>
                     <fullName>Value03</fullName>

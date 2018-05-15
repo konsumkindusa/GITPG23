@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>40.0</version>
+    <version>41.0</version>
     <types>
         <members>AlignTechApex1</members>
         <members>AlignTechApexTest1</members>
@@ -419,6 +419,7 @@
         <members>EmailMessage.TextBody</members>
         <members>EmailMessage.ToAddress</members>
         <members>EmailMessage.ValidatedFromAddress</members>
+        <members>Environment_Provisioning_Demo__c.Test__c</members>
         <members>Event.ActivityDate</members>
         <members>Event.ActivityDateTime</members>
         <members>Event.Description</members>
@@ -437,7 +438,11 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>GHI_Custom_Setting__c.Email__c</members>
+        <members>GHI_Custom_Setting__c.Phone__c</members>
+        <members>GHI_Custom_Setting__c.URL__c</members>
         <members>GenomicHealth__c.Genomic_Health_Picklist__c</members>
+        <members>IGH__c.IGH_Picklist__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>Lead.Address</members>
@@ -666,11 +671,15 @@
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
+        <members>Environment_Provisioning_Demo__c</members>
         <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
+        <members>GHI_Custom_Setting__c</members>
+        <members>GHI__c</members>
         <members>GenomicHealth__c</members>
+        <members>IGH__c</members>
         <members>Idea</members>
         <members>JiraTest__c</members>
         <members>Lead</members>
@@ -690,6 +699,7 @@
         <members>Order</members>
         <members>OrderItem</members>
         <members>PartnerRole</members>
+        <members>Playground_Wrap_Up__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
@@ -765,6 +775,10 @@
         <name>EscalationRule</name>
     </types>
     <types>
+        <members>GHI__c.C_discover</members>
+        <name>FieldSet</name>
+    </types>
+    <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
     </types>
@@ -796,8 +810,10 @@
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>Event-Event Layout</members>
         <members>FeedItem-Feed Item Layout</members>
+        <members>GHI__c-GHI Layout</members>
         <members>GenomicHealth__c-Genomic Health Layout</members>
         <members>Global-Global Layout</members>
+        <members>IGH__c-IGH Layout</members>
         <members>Idea-Idea Layout</members>
         <members>JiraTest__c-JiraTest Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
@@ -817,6 +833,7 @@
         <members>OpportunityLineItem-Opportunity Product Layout</members>
         <members>Order-Order Layout</members>
         <members>OrderItem-Order Product Layout</members>
+        <members>Playground_Wrap_Up__c-Playground Wrap Up Layout</members>
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
@@ -942,6 +959,16 @@
         <members>StandardAul</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>Hitachi_Profile_profilePasswordPolicy1491360835333</members>
+        <members>Playground_Admin_profilePasswordPolicy1467849062001</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>Hitachi_Profile_profileSessionSetting1491360835208</members>
+        <members>Playground_Admin_profileSessionSetting1467849061836</members>
+        <name>ProfileSessionSetting</name>
     </types>
     <types>
         <members>Case.NewChildCase</members>

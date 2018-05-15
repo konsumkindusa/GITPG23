@@ -54,6 +54,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>SFDC_Arch_Demo__c</fullName>
+        <description>Comment</description>
         <externalId>false</externalId>
         <label>SFDC Arch Demo</label>
         <required>false</required>

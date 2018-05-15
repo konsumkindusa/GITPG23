@@ -43,61 +43,42 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Comment</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
-    <enableHistory>false</enableHistory>
+    <enableHistory>true</enableHistory>
     <enableReports>false</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Genomic_Health_Picklist__c</fullName>
+        <fullName>Test2__c</fullName>
+        <defaultValue>false</defaultValue>
         <externalId>false</externalId>
-        <label>Genomic Health Picklist</label>
-        <required>false</required>
+        <label>Test2</label>
+        <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>Value01</fullName>
-                    <default>false</default>
-                    <label>Value01</label>
-                </value>
-                <value>
-                    <fullName>Value02</fullName>
-                    <default>false</default>
-                    <label>Value02</label>
-                </value>
-                <value>
-                    <fullName>Value03</fullName>
-                    <default>false</default>
-                    <label>Value03</label>
-                </value>
-                <value>
-                    <fullName>Value04</fullName>
-                    <default>false</default>
-                    <label>Value04</label>
-                </value>
-                <value>
-                    <fullName>Value05</fullName>
-                    <default>false</default>
-                    <label>Value05</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
+        <type>Checkbox</type>
     </fields>
-    <label>Genomic Health</label>
+    <fields>
+        <fullName>Test__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Test</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <label>Environment Provisioning Demo</label>
     <nameField>
-        <label>GenomicHealth Name</label>
+        <label>Environment Provisioning Name</label>
+        <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Genomic Health</pluralLabel>
+    <pluralLabel>Environment Provisioning Demos</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <startsWith>Vowel</startsWith>
     <visibility>Public</visibility>
 </CustomObject>

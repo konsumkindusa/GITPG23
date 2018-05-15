@@ -898,6 +898,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Environment_Provisioning_Demo__c.Test2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Environment_Provisioning_Demo__c.Test__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Event.Description</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -924,6 +934,16 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Event.WhoId</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>GenomicHealth__c.Genomic_Health_Picklist__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>IGH__c.IGH_Picklist__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1373,6 +1393,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Randstad_New_Clients__c.New_Clients__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>SBATest2__c.SBAPick1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1384,6 +1409,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>SBA__c.SBA_Picklist__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SFDC_Arch_Demo__c.SFDC_Arch_Demo__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
