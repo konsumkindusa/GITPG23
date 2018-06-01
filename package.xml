@@ -377,6 +377,7 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>Demo_Intuit__c.CF_CustomField_IntuitDemo__c</members>
         <members>Demo_Intuit__c.CF_Demo_Intuit__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
@@ -911,6 +912,7 @@
         <members>Customer Portal Manager Custom</members>
         <members>Customer Portal Manager Standard</members>
         <members>Demo_Profile1</members>
+        <members>Demo_Profile_IntuitDemo</members>
         <members>External Identity User</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>

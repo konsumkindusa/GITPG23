@@ -46,13 +46,23 @@
     <description>This is designed for 4.2 Demo for Intuit</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
-    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>CF_CustomField_IntuitDemo__c</fullName>
+        <description>This is a dummy custom field used for AR product demo to Intuit Team</description>
+        <externalId>false</externalId>
+        <label>CF_CustomField_IntuitDemo</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <fields>
         <fullName>CF_Demo_Intuit__c</fullName>
         <description>This is a custom field for Intuit Demo for AR 4.2</description>
