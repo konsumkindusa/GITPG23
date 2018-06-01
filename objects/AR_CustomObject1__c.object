@@ -46,6 +46,7 @@
     <description>Add comment for AR-CustomObject1.</description>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
@@ -58,6 +59,17 @@
         <externalId>false</externalId>
         <label>AR-CustomField1</label>
         <length>35</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>AR_CustomField_Demo__c</fullName>
+        <description>This is Demonstration with end-to-end process</description>
+        <externalId>false</externalId>
+        <label>AR-CustomField-Demo</label>
+        <length>20</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>

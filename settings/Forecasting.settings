@@ -96,6 +96,7 @@
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
+        <hasProductFamily>false</hasProductFamily>
         <isAmount>true</isAmount>
         <isAvailable>true</isAvailable>
         <isQuantity>false</isQuantity>
@@ -226,23 +227,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzO</field>
+            <field>00N0I00000JaJkP</field>
+            <label>AutorabitExtId__c</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N28000009ih31</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzP</field>
+            <field>00N28000009ih32</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzQ</field>
+            <field>00N28000009ih33</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzR</field>
+            <field>00N28000009ih34</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzS</field>
+            <field>00N28000009ih35</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -279,11 +284,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N28000009ihzO</field>
-            <field>00N28000009ihzP</field>
-            <field>00N28000009ihzQ</field>
-            <field>00N28000009ihzR</field>
-            <field>00N28000009ihzS</field>
+            <field>00N0I00000JaJkP</field>
+            <field>00N28000009ih31</field>
+            <field>00N28000009ih32</field>
+            <field>00N28000009ih33</field>
+            <field>00N28000009ih34</field>
+            <field>00N28000009ih35</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -308,6 +314,7 @@
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
+        <hasProductFamily>false</hasProductFamily>
         <isAmount>false</isAmount>
         <isAvailable>true</isAvailable>
         <isQuantity>true</isQuantity>
@@ -438,23 +445,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzO</field>
+            <field>00N0I00000JaJkP</field>
+            <label>AutorabitExtId__c</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N28000009ih31</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzP</field>
+            <field>00N28000009ih32</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzQ</field>
+            <field>00N28000009ih33</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzR</field>
+            <field>00N28000009ih34</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzS</field>
+            <field>00N28000009ih35</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -491,11 +502,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N28000009ihzO</field>
-            <field>00N28000009ihzP</field>
-            <field>00N28000009ihzQ</field>
-            <field>00N28000009ihzR</field>
-            <field>00N28000009ihzS</field>
+            <field>00N0I00000JaJkP</field>
+            <field>00N28000009ih31</field>
+            <field>00N28000009ih32</field>
+            <field>00N28000009ih33</field>
+            <field>00N28000009ih34</field>
+            <field>00N28000009ih35</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -520,6 +532,7 @@
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
+        <hasProductFamily>true</hasProductFamily>
         <isAmount>true</isAmount>
         <isAvailable>true</isAvailable>
         <isQuantity>false</isQuantity>
@@ -650,23 +663,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzO</field>
+            <field>00N0I00000JaJkP</field>
+            <label>AutorabitExtId__c</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N28000009ih31</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzP</field>
+            <field>00N28000009ih32</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzQ</field>
+            <field>00N28000009ih33</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzR</field>
+            <field>00N28000009ih34</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzS</field>
+            <field>00N28000009ih35</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -703,11 +720,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N28000009ihzO</field>
-            <field>00N28000009ihzP</field>
-            <field>00N28000009ihzQ</field>
-            <field>00N28000009ihzR</field>
-            <field>00N28000009ihzS</field>
+            <field>00N0I00000JaJkP</field>
+            <field>00N28000009ih31</field>
+            <field>00N28000009ih32</field>
+            <field>00N28000009ih33</field>
+            <field>00N28000009ih34</field>
+            <field>00N28000009ih35</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -732,6 +750,7 @@
         <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
         <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
+        <hasProductFamily>true</hasProductFamily>
         <isAmount>false</isAmount>
         <isAvailable>true</isAvailable>
         <isQuantity>true</isQuantity>
@@ -862,23 +881,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzO</field>
+            <field>00N0I00000JaJkP</field>
+            <label>AutorabitExtId__c</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00N28000009ih31</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzP</field>
+            <field>00N28000009ih32</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzQ</field>
+            <field>00N28000009ih33</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzR</field>
+            <field>00N28000009ih34</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N28000009ihzS</field>
+            <field>00N28000009ih35</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -915,11 +938,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N28000009ihzO</field>
-            <field>00N28000009ihzP</field>
-            <field>00N28000009ihzQ</field>
-            <field>00N28000009ihzR</field>
-            <field>00N28000009ihzS</field>
+            <field>00N0I00000JaJkP</field>
+            <field>00N28000009ih31</field>
+            <field>00N28000009ih32</field>
+            <field>00N28000009ih33</field>
+            <field>00N28000009ih34</field>
+            <field>00N28000009ih35</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
